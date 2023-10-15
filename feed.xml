@@ -16,5 +16,13 @@
         type="audio/mpeg"
       />
     </item>
+    <item>
+      <title>Democrats should talk more about healthcare</title>
+      <enclosure
+        url="https://kklimuk.github.io/podcasts/0c674ab7-432d-4d27-8eb8-a41b9e761f6f.mp3"
+        length="13734765"
+        type="audio/mpeg"
+      />
+    </item>
   </channel>
 </rss>
